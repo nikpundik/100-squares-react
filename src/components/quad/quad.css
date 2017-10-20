@@ -1,9 +1,12 @@
 .quad {
-  width: 500px;
-  height: 500px;
+  width: 501px;
+  height: 501px;
   margin: 2rem auto;
-  border-left: 1px solid #999;
-  border-top: 1px solid #999;
+  border-left: 1px solid #bbb;
+  border-top: 1px solid #bbb;
   display: flex;
   flex-wrap: wrap;
+  box-shadow: 0px 7px 45px #ddd, 0px 3px 0px #ccc;
+  background: white;
+  overflow: hidden;
 }

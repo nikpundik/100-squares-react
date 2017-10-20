@@ -1,4 +1,15 @@
+.app {
+  margin: 2rem;
+  text-align: center;
+}
+
 .title {
   text-align: center;
   margin: 2rem;
+}
+.title h1 {
+  font-family: 'Fredericka the Great', sans-serif;
+  font-weight: normal;
+  font-size: 3rem;
+  margin-bottom: 0.6rem;
 }

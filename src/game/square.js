@@ -25,4 +25,8 @@ export default class Square {
   isAvailable() {
     return !this.number;
   }
+
+  cannotMove() {
+    return this.getAvailableDestinations().length === 0;
+  }
 }

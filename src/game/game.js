@@ -6,7 +6,7 @@ const DSTEP = 2;
 
 export default class Game {
   constructor() {
-    this.current = 0;
+    this.current = null;
     this.squares = [];
     this.buildSquares();
     this.addDestinations();
@@ -54,5 +54,14 @@ export default class Game {
       square.setNumber(this.current.number + 1);
       this.current = square;
     }
+  }
+
+  hasNextDestination(square) {
+    if (!this.current) return true;
+    return this.current.hasDestination(square);
+  }
+
+  isStuck() {
+    return this.current && this.current.cannotMove();
   }
 }

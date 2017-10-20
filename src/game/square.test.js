@@ -44,6 +44,15 @@ it('has destination', () => {
   expect(square.hasDestination(noDestination)).toBeFalsy();
 });
 
+it('has no available destinations', () => {
+  const square = new Square(5, 5);
+  const destination = new Square(7, 7);
+  square.addDestination(destination);
+  expect(square.cannotMove()).toBeFalsy();
+  destination.setNumber(5);
+  expect(square.cannotMove()).toBeTruthy();
+});
+
 it('get available destinations', () => {
   const square = new Square(5, 5);
   const destination1 = new Square(7, 7);

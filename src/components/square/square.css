@@ -1,9 +1,28 @@
 .square {
   width: 10%;
   height: 10%;
-  border-bottom: 1px solid #999;
-  border-right: 1px solid #999;
+  border-bottom: 1px solid #bbb;
+  border-right: 1px solid #bbb;
   display: flex;
   justify-content: center;
   align-items: center;
+  cursor: pointer;
+  transition: background-color 0.2s linear;
+}
+
+.square.empty:hover {
+  background-color: #eee;
+}
+
+.square.destination:hover {
+  background-color: #dbffd7;
+}
+
+.square .number {
+  transition: border-bottom 0.2s linear;
+  border-bottom: 2px solid transparent;
+}
+
+.square.current .number {
+  border-bottom: 2px solid #bbb;
 }
