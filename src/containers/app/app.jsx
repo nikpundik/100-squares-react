@@ -7,7 +7,10 @@ class App extends Component {
   render() {
     return (
       <div className="app">
-        <h1 className="title">100 Squares Game</h1>
+        <header className="title">
+          <h1>100 Squares Game</h1>
+          <p>Fill numbers from 1 to 100. Skip 1 cell diagonal or 2 cells otherwise.</p>
+        </header>
         <Quad squares={this.props.game.squares} next={this.props.next} />
       </div>
     );
