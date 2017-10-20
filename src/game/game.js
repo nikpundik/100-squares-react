@@ -6,6 +6,7 @@ const DSTEP = 2;
 
 export default class Game {
   constructor() {
+    this.current = 0;
     this.squares = [];
     this.buildSquares();
     this.addDestinations();
@@ -43,5 +44,15 @@ export default class Game {
   getSquare(x, y) {
     if (x < 0 || x >= SIDE || y < 0 || y >= SIDE) return null;
     return this.squares[(y * SIDE) + x];
+  }
+
+  nextSquare(square) {
+    if (!this.current) {
+      this.current = square;
+      square.setNumber(1);
+    } else if (this.current.hasDestination(square)) {
+      square.setNumber(this.current.number + 1);
+      this.current = square;
+    }
   }
 }

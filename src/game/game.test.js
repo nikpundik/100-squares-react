@@ -46,3 +46,20 @@ it('assign squares destinations', () => {
   destinations = square.getAvailableDestinations();
   expect(destinations).toHaveLength(8);
 });
+
+it('next square', () => {
+  const game = new Game();
+
+  const square = game.getSquare(0, 0);
+
+  game.nextSquare(square);
+  expect(square.number).toBe(1);
+
+  game.nextSquare(square);
+  expect(game.current.number).toBe(1);
+  expect(square.number).toBe(1);
+
+  game.nextSquare(game.getSquare(3, 0));
+  expect(game.current.number).toBe(2);
+  expect(square.number).toBe(1);
+});

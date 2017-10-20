@@ -18,6 +18,10 @@ export default class Square {
     return this.destinations.filter(d => d.isAvailable());
   }
 
+  hasDestination(square) {
+    return this.destinations.indexOf(square) !== -1;
+  }
+
   isAvailable() {
     return !this.number;
   }

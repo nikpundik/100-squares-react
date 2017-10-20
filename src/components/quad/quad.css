@@ -1,0 +1,9 @@
+.quad {
+  width: 500px;
+  height: 500px;
+  margin: 2rem auto;
+  border-left: 1px solid #999;
+  border-top: 1px solid #999;
+  display: flex;
+  flex-wrap: wrap;
+}
