@@ -8,8 +8,25 @@
   margin: 2rem;
 }
 .title h1 {
-  font-family: 'Fredericka the Great', sans-serif;
   font-weight: normal;
   font-size: 3rem;
   margin-bottom: 0.6rem;
+}
+.end {
+  border: 3px solid #999;
+  width: 110px;
+  height: 110px;
+  display: inline-block;
+  line-height: 110px;
+  background-color: #fff;
+}
+
+.buttons {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+}
+
+.buttons > * {
+  margin: 10px;
 }
