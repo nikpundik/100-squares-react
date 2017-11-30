@@ -2,7 +2,7 @@
   width: 10%;
   height: 10%;
   border-bottom: 1px solid #bbb;
-  border-right: 1px solid #bbb;
+  border-left: 1px solid #bbb;
   display: flex;
   justify-content: center;
   align-items: center;

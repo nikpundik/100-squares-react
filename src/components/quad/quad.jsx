@@ -3,8 +3,13 @@ import './quad.css';
 
 import Square from '../square';
 
+import bg from '../../assets/bg.png';
+
 const Quad = ({ game, next }) => (
   <div className="quad">
+    <img src={bg} />
+
+    <div className="squares">
     { game.squares.map((square) => (
       <Square
         key={`${square.x}${square.y}`}
@@ -14,6 +19,7 @@ const Quad = ({ game, next }) => (
         destination={game.hasNextDestination(square)}
       />
     ))}
+    </div>
   </div>
 );
 
