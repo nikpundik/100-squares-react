@@ -1,0 +1,815 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div
+  className="quad"
+>
+  <img
+    src="bg.png"
+  />
+  <div
+    className="squares"
+  >
+    <div
+      className="square empty destination"
+      onClick={[Function]}
+    >
+      <span
+        className="number"
+      />
+    </div>
+    <div
+      className="square empty destination"
+      onClick={[Function]}
+    >
+      <span
+        className="number"
+      />
+    </div>
+    <div
+      className="square empty destination"
+      onClick={[Function]}
+    >
+      <span
+        className="number"
+      />
+    </div>
+    <div
+      className="square empty destination"
+      onClick={[Function]}
+    >
+      <span
+        className="number"
+      />
+    </div>
+    <div
+      className="square empty destination"
+      onClick={[Function]}
+    >
+      <span
+        className="number"
+      />
+    </div>
+    <div
+      className="square empty destination"
+      onClick={[Function]}
+    >
+      <span
+        className="number"
+      />
+    </div>
+    <div
+      className="square empty destination"
+      onClick={[Function]}
+    >
+      <span
+        className="number"
+      />
+    </div>
+    <div
+      className="square empty destination"
+      onClick={[Function]}
+    >
+      <span
+        className="number"
+      />
+    </div>
+    <div
+      className="square empty destination"
+      onClick={[Function]}
+    >
+      <span
+        className="number"
+      />
+    </div>
+    <div
+      className="square empty destination"
+      onClick={[Function]}
+    >
+      <span
+        className="number"
+      />
+    </div>
+    <div
+      className="square empty destination"
+      onClick={[Function]}
+    >
+      <span
+        className="number"
+      />
+    </div>
+    <div
+      className="square empty destination"
+      onClick={[Function]}
+    >
+      <span
+        className="number"
+      />
+    </div>
+    <div
+      className="square empty destination"
+      onClick={[Function]}
+    >
+      <span
+        className="number"
+      />
+    </div>
+    <div
+      className="square empty destination"
+      onClick={[Function]}
+    >
+      <span
+        className="number"
+      />
+    </div>
+    <div
+      className="square empty destination"
+      onClick={[Function]}
+    >
+      <span
+        className="number"
+      />
+    </div>
+    <div
+      className="square empty destination"
+      onClick={[Function]}
+    >
+      <span
+        className="number"
+      />
+    </div>
+    <div
+      className="square empty destination"
+      onClick={[Function]}
+    >
+      <span
+        className="number"
+      />
+    </div>
+    <div
+      className="square empty destination"
+      onClick={[Function]}
+    >
+      <span
+        className="number"
+      />
+    </div>
+    <div
+      className="square empty destination"
+      onClick={[Function]}
+    >
+      <span
+        className="number"
+      />
+    </div>
+    <div
+      className="square empty destination"
+      onClick={[Function]}
+    >
+      <span
+        className="number"
+      />
+    </div>
+    <div
+      className="square empty destination"
+      onClick={[Function]}
+    >
+      <span
+        className="number"
+      />
+    </div>
+    <div
+      className="square empty destination"
+      onClick={[Function]}
+    >
+      <span
+        className="number"
+      />
+    </div>
+    <div
+      className="square empty destination"
+      onClick={[Function]}
+    >
+      <span
+        className="number"
+      />
+    </div>
+    <div
+      className="square empty destination"
+      onClick={[Function]}
+    >
+      <span
+        className="number"
+      />
+    </div>
+    <div
+      className="square empty destination"
+      onClick={[Function]}
+    >
+      <span
+        className="number"
+      />
+    </div>
+    <div
+      className="square empty destination"
+      onClick={[Function]}
+    >
+      <span
+        className="number"
+      />
+    </div>
+    <div
+      className="square empty destination"
+      onClick={[Function]}
+    >
+      <span
+        className="number"
+      />
+    </div>
+    <div
+      className="square empty destination"
+      onClick={[Function]}
+    >
+      <span
+        className="number"
+      />
+    </div>
+    <div
+      className="square empty destination"
+      onClick={[Function]}
+    >
+      <span
+        className="number"
+      />
+    </div>
+    <div
+      className="square empty destination"
+      onClick={[Function]}
+    >
+      <span
+        className="number"
+      />
+    </div>
+    <div
+      className="square empty destination"
+      onClick={[Function]}
+    >
+      <span
+        className="number"
+      />
+    </div>
+    <div
+      className="square empty destination"
+      onClick={[Function]}
+    >
+      <span
+        className="number"
+      />
+    </div>
+    <div
+      className="square empty destination"
+      onClick={[Function]}
+    >
+      <span
+        className="number"
+      />
+    </div>
+    <div
+      className="square empty destination"
+      onClick={[Function]}
+    >
+      <span
+        className="number"
+      />
+    </div>
+    <div
+      className="square empty destination"
+      onClick={[Function]}
+    >
+      <span
+        className="number"
+      />
+    </div>
+    <div
+      className="square empty destination"
+      onClick={[Function]}
+    >
+      <span
+        className="number"
+      />
+    </div>
+    <div
+      className="square empty destination"
+      onClick={[Function]}
+    >
+      <span
+        className="number"
+      />
+    </div>
+    <div
+      className="square empty destination"
+      onClick={[Function]}
+    >
+      <span
+        className="number"
+      />
+    </div>
+    <div
+      className="square empty destination"
+      onClick={[Function]}
+    >
+      <span
+        className="number"
+      />
+    </div>
+    <div
+      className="square empty destination"
+      onClick={[Function]}
+    >
+      <span
+        className="number"
+      />
+    </div>
+    <div
+      className="square empty destination"
+      onClick={[Function]}
+    >
+      <span
+        className="number"
+      />
+    </div>
+    <div
+      className="square empty destination"
+      onClick={[Function]}
+    >
+      <span
+        className="number"
+      />
+    </div>
+    <div
+      className="square empty destination"
+      onClick={[Function]}
+    >
+      <span
+        className="number"
+      />
+    </div>
+    <div
+      className="square empty destination"
+      onClick={[Function]}
+    >
+      <span
+        className="number"
+      />
+    </div>
+    <div
+      className="square empty destination"
+      onClick={[Function]}
+    >
+      <span
+        className="number"
+      />
+    </div>
+    <div
+      className="square empty destination"
+      onClick={[Function]}
+    >
+      <span
+        className="number"
+      />
+    </div>
+    <div
+      className="square empty destination"
+      onClick={[Function]}
+    >
+      <span
+        className="number"
+      />
+    </div>
+    <div
+      className="square empty destination"
+      onClick={[Function]}
+    >
+      <span
+        className="number"
+      />
+    </div>
+    <div
+      className="square empty destination"
+      onClick={[Function]}
+    >
+      <span
+        className="number"
+      />
+    </div>
+    <div
+      className="square empty destination"
+      onClick={[Function]}
+    >
+      <span
+        className="number"
+      />
+    </div>
+    <div
+      className="square empty destination"
+      onClick={[Function]}
+    >
+      <span
+        className="number"
+      />
+    </div>
+    <div
+      className="square empty destination"
+      onClick={[Function]}
+    >
+      <span
+        className="number"
+      />
+    </div>
+    <div
+      className="square empty destination"
+      onClick={[Function]}
+    >
+      <span
+        className="number"
+      />
+    </div>
+    <div
+      className="square empty destination"
+      onClick={[Function]}
+    >
+      <span
+        className="number"
+      />
+    </div>
+    <div
+      className="square empty destination"
+      onClick={[Function]}
+    >
+      <span
+        className="number"
+      />
+    </div>
+    <div
+      className="square empty destination"
+      onClick={[Function]}
+    >
+      <span
+        className="number"
+      />
+    </div>
+    <div
+      className="square empty destination"
+      onClick={[Function]}
+    >
+      <span
+        className="number"
+      />
+    </div>
+    <div
+      className="square empty destination"
+      onClick={[Function]}
+    >
+      <span
+        className="number"
+      />
+    </div>
+    <div
+      className="square empty destination"
+      onClick={[Function]}
+    >
+      <span
+        className="number"
+      />
+    </div>
+    <div
+      className="square empty destination"
+      onClick={[Function]}
+    >
+      <span
+        className="number"
+      />
+    </div>
+    <div
+      className="square empty destination"
+      onClick={[Function]}
+    >
+      <span
+        className="number"
+      />
+    </div>
+    <div
+      className="square empty destination"
+      onClick={[Function]}
+    >
+      <span
+        className="number"
+      />
+    </div>
+    <div
+      className="square empty destination"
+      onClick={[Function]}
+    >
+      <span
+        className="number"
+      />
+    </div>
+    <div
+      className="square empty destination"
+      onClick={[Function]}
+    >
+      <span
+        className="number"
+      />
+    </div>
+    <div
+      className="square empty destination"
+      onClick={[Function]}
+    >
+      <span
+        className="number"
+      />
+    </div>
+    <div
+      className="square empty destination"
+      onClick={[Function]}
+    >
+      <span
+        className="number"
+      />
+    </div>
+    <div
+      className="square empty destination"
+      onClick={[Function]}
+    >
+      <span
+        className="number"
+      />
+    </div>
+    <div
+      className="square empty destination"
+      onClick={[Function]}
+    >
+      <span
+        className="number"
+      />
+    </div>
+    <div
+      className="square empty destination"
+      onClick={[Function]}
+    >
+      <span
+        className="number"
+      />
+    </div>
+    <div
+      className="square empty destination"
+      onClick={[Function]}
+    >
+      <span
+        className="number"
+      />
+    </div>
+    <div
+      className="square empty destination"
+      onClick={[Function]}
+    >
+      <span
+        className="number"
+      />
+    </div>
+    <div
+      className="square empty destination"
+      onClick={[Function]}
+    >
+      <span
+        className="number"
+      />
+    </div>
+    <div
+      className="square empty destination"
+      onClick={[Function]}
+    >
+      <span
+        className="number"
+      />
+    </div>
+    <div
+      className="square empty destination"
+      onClick={[Function]}
+    >
+      <span
+        className="number"
+      />
+    </div>
+    <div
+      className="square empty destination"
+      onClick={[Function]}
+    >
+      <span
+        className="number"
+      />
+    </div>
+    <div
+      className="square empty destination"
+      onClick={[Function]}
+    >
+      <span
+        className="number"
+      />
+    </div>
+    <div
+      className="square empty destination"
+      onClick={[Function]}
+    >
+      <span
+        className="number"
+      />
+    </div>
+    <div
+      className="square empty destination"
+      onClick={[Function]}
+    >
+      <span
+        className="number"
+      />
+    </div>
+    <div
+      className="square empty destination"
+      onClick={[Function]}
+    >
+      <span
+        className="number"
+      />
+    </div>
+    <div
+      className="square empty destination"
+      onClick={[Function]}
+    >
+      <span
+        className="number"
+      />
+    </div>
+    <div
+      className="square empty destination"
+      onClick={[Function]}
+    >
+      <span
+        className="number"
+      />
+    </div>
+    <div
+      className="square empty destination"
+      onClick={[Function]}
+    >
+      <span
+        className="number"
+      />
+    </div>
+    <div
+      className="square empty destination"
+      onClick={[Function]}
+    >
+      <span
+        className="number"
+      />
+    </div>
+    <div
+      className="square empty destination"
+      onClick={[Function]}
+    >
+      <span
+        className="number"
+      />
+    </div>
+    <div
+      className="square empty destination"
+      onClick={[Function]}
+    >
+      <span
+        className="number"
+      />
+    </div>
+    <div
+      className="square empty destination"
+      onClick={[Function]}
+    >
+      <span
+        className="number"
+      />
+    </div>
+    <div
+      className="square empty destination"
+      onClick={[Function]}
+    >
+      <span
+        className="number"
+      />
+    </div>
+    <div
+      className="square empty destination"
+      onClick={[Function]}
+    >
+      <span
+        className="number"
+      />
+    </div>
+    <div
+      className="square empty destination"
+      onClick={[Function]}
+    >
+      <span
+        className="number"
+      />
+    </div>
+    <div
+      className="square empty destination"
+      onClick={[Function]}
+    >
+      <span
+        className="number"
+      />
+    </div>
+    <div
+      className="square empty destination"
+      onClick={[Function]}
+    >
+      <span
+        className="number"
+      />
+    </div>
+    <div
+      className="square empty destination"
+      onClick={[Function]}
+    >
+      <span
+        className="number"
+      />
+    </div>
+    <div
+      className="square empty destination"
+      onClick={[Function]}
+    >
+      <span
+        className="number"
+      />
+    </div>
+    <div
+      className="square empty destination"
+      onClick={[Function]}
+    >
+      <span
+        className="number"
+      />
+    </div>
+    <div
+      className="square empty destination"
+      onClick={[Function]}
+    >
+      <span
+        className="number"
+      />
+    </div>
+    <div
+      className="square empty destination"
+      onClick={[Function]}
+    >
+      <span
+        className="number"
+      />
+    </div>
+    <div
+      className="square empty destination"
+      onClick={[Function]}
+    >
+      <span
+        className="number"
+      />
+    </div>
+    <div
+      className="square empty destination"
+      onClick={[Function]}
+    >
+      <span
+        className="number"
+      />
+    </div>
+    <div
+      className="square empty destination"
+      onClick={[Function]}
+    >
+      <span
+        className="number"
+      />
+    </div>
+    <div
+      className="square empty destination"
+      onClick={[Function]}
+    >
+      <span
+        className="number"
+      />
+    </div>
+  </div>
+</div>
+`;

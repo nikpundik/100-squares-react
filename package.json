@@ -16,6 +16,12 @@
     "dev": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
+    "test:watch": "react-scripts test --env=jsdom --watch",
     "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "enzyme": "^3.2.0",
+    "enzyme-adapter-react-16": "^1.1.0",
+    "react-test-renderer": "^16.2.0"
   }
 }

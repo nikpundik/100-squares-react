@@ -1,0 +1,47 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div
+  className="square empty"
+  onClick={[Function]}
+>
+  <span
+    className="number"
+  />
+</div>
+`;
+
+exports[`renders current square 1`] = `
+<div
+  className="square empty current"
+  onClick={[Function]}
+>
+  <span
+    className="number"
+  />
+</div>
+`;
+
+exports[`renders destination square 1`] = `
+<div
+  className="square empty destination"
+  onClick={[Function]}
+>
+  <span
+    className="number"
+  />
+</div>
+`;
+
+exports[`renders with number 1`] = `
+<div
+  className="square"
+  onClick={[Function]}
+>
+  <span
+    className="number"
+  >
+    5
+  </span>
+</div>
+`;
